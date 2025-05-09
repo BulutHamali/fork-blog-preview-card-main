@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-###The Challenge
+### The Challenge
 
 Users should be able to:
 
@@ -23,7 +23,7 @@ Built With
 -Mobile-first workflow
 -Custom font (Figtree)
 
-###What I Learned
+### What I Learned
 
 This project strengthened my skills in responsive design and styling with CSS also utilized Figma Resources . Key takeaways include:
 
